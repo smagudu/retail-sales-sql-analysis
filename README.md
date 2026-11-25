@@ -32,15 +32,15 @@ The project uses a synthetic retail sales dataset containing **500 sales records
 
 The dataset includes:
 
-OrderID - Unique order identifier 
-OrderDate - Date of the order 
-CustomerID - Customer identifier 
-Region - Sales region 
-Product - Product name 
-Category - Product category 
-Quantity - Number of units sold 
-UnitPrice - Selling price per unit 
-UnitCost - Cost per unit 
+OrderID - Unique order identifier, 
+OrderDate - Date of the order, 
+CustomerID - Customer identifier,
+Region - Sales region, 
+Product - Product name, 
+Category - Product category, 
+Quantity - Number of units sold, 
+UnitPrice - Selling price per unit,
+UnitCost - Cost per unit, 
 Discount - Discount applied
 
 **Currency:** South African Rand (ZAR).
@@ -125,12 +125,15 @@ These findings highlight differences in monthly performance within the dataset.
 
 The analysis compared profitability across different discount levels.
 
-| **Discount | Profit Margin** |
-| 0%         | 35.75%          |
-| 5%         | 33.41%          |
-| 10%        | 28.88%          |
-| 15%        | 23.72%          |
-| 20%        | 20.30%          |
+0%--35.75%,
+
+5%--33.41%,
+
+10%--28.88%,
+
+15%--23.72%,
+
+20%--20.30%
 
 Higher discount levels were associated with lower profit margins in this dataset.
 
